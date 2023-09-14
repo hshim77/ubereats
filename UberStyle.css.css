@@ -1,0 +1,401 @@
+  body{
+    margin: 0;
+    overflow-x: hidden;
+  }
+  .container{
+    padding: 0  163px;
+  }
+  .Material1{
+    display: inline-block;
+    margin-top: 50px;
+    width: 200px;
+  }
+  .fa-bars{
+    margin-top:35px;
+    font-size: 100px ;
+  }
+  .uberlogo{
+    width: 500px;
+    height: auto;
+  }
+  .logo{
+    position: relative;
+    top: 100px;
+    left:20px;
+  }
+  .nav-1
+  {
+    position: relative;
+    top: 19px;
+    display: flex;
+    justify-content: center;
+  }
+  .nav-1-btn
+  {
+   
+    display: flex;
+    justify-content: flex-end;
+  }
+  .logodiv{
+    margin-right: auto;
+  }
+  
+
+  .sign-up{
+    font-size:50px;
+  }
+  .fa-user{
+    font-size: 50px;
+  }
+  .loginbtn{
+    font-size: 40px;
+    font-size: 50px;
+    font-weight: 100px;
+  }
+  .nav-1-btns{
+    margin-top: 50px;
+    border-radius: 100px;
+    margin-right: 30px;
+    border: none;
+    width: 370px;  
+    height: 200px;
+    background-color: #f0f0f0;
+    color: black;
+    cursor: pointer;
+    padding: 0%;
+
+  } 
+  .nav-2-btn{
+    margin-top: 50px;
+    background-color: rgb(12, 12, 12);
+    border-radius: 100px;
+    border: none;
+    width: 370px;  
+    height: 200px;
+    color: rgb(241, 237, 237);
+    cursor: pointer;
+    padding: 0%;
+  }
+  .sec-1{
+    background-image: url(.//image/e42096bcb3ee9957.webp);
+
+    height: 170rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .sec-1-2{
+    position: relative;
+    top: 100px;
+  }
+  .divsrch{
+    
+    position: relative;
+    top: 572px;
+  }
+  .headsrch{
+    font-family: 'Lato', sans-serif;
+     font-size: 215px;
+  }
+  .srchbr{
+    float: left;
+    width: 2110px;
+    height:  205px;
+    font-size: 56px;
+    border: none;
+  }
+  
+  .fa-location-dot{
+    display: inline-block;
+    background-color: hwb(0 100% 0%);
+    float: left;
+    font-size:  85px;
+    padding: 61px;
+    text-align: center;
+    line-height: 1;
+    position: relative;
+    
+  }
+ /* .fa-clock{
+  font-size: 85px; 
+  padding: 61px;
+  background-color: azure;
+ } */
+ .fa-clock{
+    float: left;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: hwb(0 100% 0%);
+    font-size:  85px;
+    padding: 61px;
+    text-align: center;
+    line-height: 1;
+    position: relative;
+ }
+    
+ .srchbttn-2-1{
+  display: inline-block;
+  padding-top: 0px;
+  float: left;
+  width: 590px;;
+  height:  205px;
+  font-size: 56px;
+  border: none;
+  background-color: white;
+}
+.btn-text{
+  
+  padding: 0px 100px;
+    margin-top: 64px;
+    font-size: 61px;
+    float: left;
+    margin-left: -91px;
+}
+
+.arrow{
+  padding-right:  61px;
+  text-align: end;
+  padding-top: 69px;
+}
+.findbtn{
+  margin-left: 20px;
+  background-color: black;
+  color: white;
+  width: 398px;
+  height: 204px;
+  border-radius:45px;
+  font-size: 60px;
+}
+.sec-1-para
+{
+  font-size: 60px;
+    margin-top: 60px;
+}
+.gap{
+  width: 1349px;
+  height: 345px;
+}
+.sec-2{
+  display: grid;
+  grid-template-columns:  1800px 1800px 1800px;
+  column-gap: 40px;
+  height: 1650px;
+  width: 100%;
+}
+.sec-2-div1{
+  width: 1600px;
+  height: 1200px;
+ 
+}
+.img-div1{
+ 
+  display: inline-block;
+  width: 1800px;
+  height: 950px;
+}
+.sec-2-img1{
+ 
+  width: 1600px;
+  height: 950px;
+
+}
+
+.sec-2-imgp1{
+  width:1599px;
+  font-size: 110px;
+ 
+}
+.sec-2-link{
+  font-size: 70px;
+  color: black;
+}
+
+.sec-3h1{
+  display: inline-block;
+  font-size: 140px;
+  line-height: 40px;
+}
+
+.sec-3map{
+
+  width: 100%;
+}
+.imgmap{
+  width: 100%;
+  height: 1227px;
+}
+.sec-3link{
+    margin-top: 100px;
+    width:500px;
+    font-size: 60px;
+}
+
+.sec-3list1{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.list1{
+  display: inline-block;
+  font-size: 70px;
+  line-height: 200px;
+}
+.contry{
+display: flex;
+justify-content: space-between;
+
+}
+.sec-3h1{
+  display: inline-block;
+     width: 1300px;
+    font-size: 115px;
+    float: left;
+}
+.hd-cntry{
+  display: flex;
+  justify-content: space-between;
+}
+.cntrylink{
+  
+  font-size: 70px;
+  float: right;
+  margin-top: 60px;
+}
+.cntrylist
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /* grid-template-columns: 1500px 1500px 1500px 1500px; */
+  clear: both;
+  font-size: 70px;
+  line-height: 200px;
+  margin-bottom: 80px;
+}
+.hr{
+  width:100%;
+  color: grey;
+}
+.last-sec{
+  position: relative;
+  top: 200px;
+}
+.l-secdiv
+{
+ width: 1349px;
+ height: auto;
+ padding: 0px 40px; 
+
+}
+.lstimg{
+  width: 500px;
+  height: 120px;
+}
+.lstlogos{
+  display: inline-block;
+  float: left;
+  width: 2200px;
+    height: 882px;
+  }
+
+
+.app-logo{
+  display: inline-block;
+  position: relative;
+  width: 1200px;
+  top: 75%;
+}
+.appled{
+  width: 500px;
+  height: 161px;
+  display: inline-block;
+  padding-top: 97px;
+  
+}
+.googled{
+  height: 161px;
+  width: 500px;
+
+}
+.parent-div{
+  display:flex;
+  justify-content: space-between;
+}
+/* .abc{
+width:200px;
+height:300px
+} */
+.section-4{
+  display: flex;
+  border-top: 1px solid black;
+  padding-top: 80px;
+  padding-bottom: 5%;
+  border-bottom: 1px solid black;
+}
+.sec-4-1{
+  flex: 50%;
+  padding-left: 163px;
+
+}
+.sec-4-2{
+  flex: 25%;
+}
+.sec-4-3{
+  flex: 25%;
+}
+.sec-4-list>li{
+  font-size: 70px;
+  list-style: none;
+  /* padding: 20px; */
+  line-height: 200px;
+  
+}
+.footer-parent-div{
+  display: flex;
+}
+.footer-div-1{
+ 
+  padding-top: 0%;
+  flex: 35%;
+}
+.footer-div-2{
+  flex: 65%;
+
+}
+.fa-square-facebook{
+   margin-top: 200px;
+  font-size: 70px;
+}
+.fa-twitter{
+  margin-top: 200px;
+  position: absolute;
+  left: 400px;
+  font-size: 70px;
+}
+.fa-instagram{
+  position: relative;
+  left: 400px;
+  margin-top: 200px;
+  font-size: 70px;
+}
+.last-nav{
+  display: flex;
+  margin-top: 60px;
+  float: right;
+  justify-content: space-between;
+  font-size: 60px;
+}
+.last-nav>li{
+  padding: 100px;
+}
+.footer-paras{
+  font-size: 80px;
+  width: 80%;
+  float: right;
+}
+.footer-para{
+  margin-top: -100px;
+  float: right;
+  margin-right: 80px;
+  font-size: 60px;
+}
+ul{
+  list-style: none;
+}
